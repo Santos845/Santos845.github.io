@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+         background: linear-gradient(to bottom, #1a237e, #283593);
+}
+
+form {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.9);
+    background: linear-gradient(to bottom, #1a237e, #283593);
+}
+
+h1 {
+    text-align: center;
+    
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+}
+#btnIngresar{
+    background-color: aquamarine;
+    
+}
