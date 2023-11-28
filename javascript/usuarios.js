@@ -4,8 +4,8 @@ function  obtenerListaUsuarios() {
     if (listaUsuarios==null) 
     {
     listaUsuarios=[
-        ['1','Pabs','Monestel','pablo.monestel@gmail.com','pablo123','1987-10-12','1'],
-        ['2','Olmen','Juan','juanpe@gmail.com','juan123','1987-10-12','2']
+        ['1','Alvaro','Mamani','alvaromamani@gmail.com','1alvaro23','2000-11-02','1'],
+        ['2','Santos','Michma','Santosm@gmail.com','santos3','1987-10-12','2']
     ]    
     }
     return listaUsuarios;
